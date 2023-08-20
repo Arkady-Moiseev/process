@@ -7,5 +7,4 @@ ___
 5) Реализовать 2 конкурирующих процесса по CPU. пробовать запустить с разными nice
 ___
 
-1) Написать свою реализацию ps ax используя анализ /proc
-<a href="https://github.com/Arkady1996/process/blob/main/psax.sh">Написать свою реализацию ps ax используя анализ /proc</a>
+1) <a href="https://github.com/Arkady1996/process/blob/main/psax.sh">Написать свою реализацию ps ax используя анализ /proc</a>
